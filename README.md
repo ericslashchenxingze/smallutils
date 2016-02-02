@@ -18,7 +18,8 @@ me at:
 
   Daniel Roskams <rocket.penguin@riseup.net>
 
-Any suggestions or questions are also welcome.
+Any suggestions or questions are welcome. You can also use the issue tracker in
+GitHub if you wish.
 
 Installing Programs
 -------------------
