@@ -2,8 +2,9 @@ smallutils -- very small replacements for common UNIX utilities
 ===============================================================
 
 These utilities are provided so that people can see how programming is done
-without all the preprocessor customisations that are often included in many
-programs. Aside from that, the programs are actually usable, as well.
+without all the preprocessor customisations and extra complexities that are
+often included in many programs. Aside from that, the programs are actually
+usable, as well.
 
 Compiling Programs
 ------------------
